@@ -1,12 +1,12 @@
-# De Pluvia Lapidea
+# De Pluvia Lapidea.
 
 ## Anni 1753.
 
-## Ad Strkow et Ejus Causis Meditatio
+## Ad Strkow et Ejus Causis Meditatio.
 
 ### Per Josephum Stepling,
 
-#### Soc. Jesu Sacerdotem, Caesareo-Regium Studii Philosophici Pragensis, & Artium
+#### Soc. Jesu Sacerdotem, Caesareo-Regium Studii Philosophici Pragensis, & Artium.
 
 ...
 
