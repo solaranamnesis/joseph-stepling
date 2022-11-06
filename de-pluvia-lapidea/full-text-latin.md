@@ -32,9 +32,7 @@ Minimus & perpetuus Cliens Antonius Hoering.
 
 # Ad Lectorem.
 
-Habes benevole lector, quae inter crebra & cumulata mense praeprimis Aususto muniorum meorum negotia horulis subsecivis meditatus sum. Nunquam quidem in mentem venit ea luci publicae committere, cum Eruditiorum seculi nostri lectorm expectationi facturum me omnino satis vix putarem, propterea, quod certiora quaedam, eaque ad quaestionem praesentem plene decidendam magis opportuna adhuc defiderentur. Feci attamen, quod id dandum censui amico petenti, & quod opportunum putavi: specimine edito palam facere, iis in consessibus, quos instituente atque imperante Maria Theresia Augusta Patriae & Musarum Matre celbramus, non remote sive a tempore, 
-
-...
+Habes benevole lector, quae inter crebra & cumulata mense præprimis Aususto muniorum meorum negotia horulis subsecivis meditatus sum. Nunquam quidem in mentem venit ea luci publicæ committere, cum Eruditiorum seculi nostri lectorm expectationi facturum me omnino satis vix putarem, propterea, quod certiora quædam, eaque ad quaestionem praesentem plene decidendam magis opportuna adhuc defiderentur. Feci attamen, quod id dandum censui amico petenti, & quod opportunum putavi: specimine edito palam facere, iis in consessibus, quos instituente atque imperante Maria Theresia Augusta Patriæ & Musarum Matre celbramus, non remote sive a tempore, sive cognitione & sensu nostro nos perscrutari, sed quæ sint ante pedes, sed quæ ad naturæ revelanda arcana conducant, aut sua se se utilitate sive in scientiis sive vita communi commendent. Itaque lucubratiunculam istam æqui bonique consulito; neque si tibi forte non placeat, aut probetur, continuo displicituram omnibus velim perfuadeas. Vale.
 
 # §. 1. Historia pluviae lapideae ad Strkow.
 
