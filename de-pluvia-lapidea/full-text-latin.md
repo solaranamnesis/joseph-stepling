@@ -1,6 +1,6 @@
 # De Pluvia Lapidea
 
-## Anni M. DCC. LIII.
+## Anni 1753.
 
 ## Ad Strkow et Ejus Causis Meditatio
 
