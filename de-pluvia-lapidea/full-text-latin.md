@@ -8,11 +8,27 @@
 
 #### Soc. Jesu Sacerdotem, Caesareo-Regium Studii Philosophici Pragensis, & Artium.
 
-...
+Directorem, Lecta in Consessu Philosophico
+
+Mense Augusto Anno eodem et approbata.
 
 # Dedicatio.
 
-Non ars solum inventis, sed 
+Non ars solum inventis, sed & natura insolitis Phænomenis hoc ingenuo, quod vivimus, sæculo Philosophis patrocinari videtur: ut habeant, quo eruditis cogitationibus & mentem occupent, & rerum natur alium scientia publico prosint. E pluribus unum recitabo, quod anno superiore in Bohemia haud longe ab urbe Thabor in vicinia Strkoviensi accidisse etiam per mitteras accepimus, sparsiex improviso per campos lapides videbantur, quos an nubes gravida effuderit? an ventus potentior collectas attulerit? an denique motus insolentior e terræ visceribus ejecerit, incertum fuerat spectantibus.
+
+Præbuit hæc rei novitas occasionem Philosopha in causas rei tam insolitæ solertius indagandi, ventorum vim, atque potentiam expendendi; quid sapienter denique de hoc ominari, quid decerni possit, dissertatione complectendi.
+
+Luæ cum & eruditione plena sit, & rerum naturalium sciendarum cupidis peramœna, TUIS ausus sum honoribus dicare EXCELLENTISSIME Domine, Domine Patrone. Hac & meum TIBI grati animi studium, quod ipsa adeo ætate majus est, testari volui, & simul propensam TUAM, qua literas æque, ac literatos proseuqeris volunatatem orbi commendare.
+
+Luamvis vel me tacente Scholæ, Gymnasia, Universitates, omnisque Eruditorum societas hoc fateatur, qui vel exemplis TUIS, vel eruditis speciminibus, aut certe sermonibus atque disucrsibus eruditis se se adjutos gloriantur.
+
+Inde vero cui mirum sit amplius, quod tanta sapientiæ TUÆ fama regnum universum pervaserit? quod in remotas etiam provincias penetraverit? quod denique in Aula tanti æstimata fuerit, ut non uno, sed compluribus, quibus vix permulti alii pares forent, dignitatibus fueris ornatus. Sed molesta, adverto, hæc TUÆ sunt modestiæ, qui pene magis TUARUM laudum pertæsus es, quam alii laborum. Præteribo igitur avitam generis TUI nobilitatem, præteribo Majorum TUORUM officia, munera, honores, gesta præclare facinora, TE ipsum denique potissima TUI parte id est singularem TUAM in Superos pietatem, in miseros clementiam, in singulos humanitatem pæteribo. Luanquam hæc ipsa decora ita ante omnium oculos versantur, ut nemo unus sit, qui non vitam TIBI incolumem, sibi felicitatem TE fruendi porro, TUIS LUE virtutibus incitari exoptet.
+
+Ego certe, qui spectatis exemplis TUIS ad literarios conatus incitatus Philosophicam arenam subeo, disceptationem meam honori TUO consecro, id simul recipiens, nunquam me commissurum, quo minus meum in TE colendo desiderium, in exoranda, TIBI, diuturna vitæ incolumitate studium elucscat.
+
+EXCELLENTISSIMI DOMINI
+
+Minimus & perpetuus Cliens Antonius Hoering. 
 
 # Ad Lectorem.
 
