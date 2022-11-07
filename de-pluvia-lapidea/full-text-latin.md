@@ -6,7 +6,7 @@
 
 ### Per Josephum Stepling,
 
-#### Soc. Jesu Sacerdotem, Caesareo-Regium Studii Philosophici Pragensis, & Artium.
+#### Soc. Jesu Sacerdotem, Cæsareo-Regium Studii Philosophici Pragensis, & Artium.
 
 Directorem, Lecta in Consessu Philosophico
 
