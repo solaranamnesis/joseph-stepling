@@ -56,7 +56,13 @@ Cum, ut ostensum in anterioribus, lapides ad Strkow in aere geniti non sint, non
 
 # §. 4. Lapides non sunt in aera abrepti procella.
 
+Vento procelloso arbores prosterni, tigna tectorum, atque integra etiam tecta abripi tristis persæpe docuit experientia; cur igitur ex cacuminibus montium vehemente vento flante abripi non possent lapides in superfic ie cacuminis jacentes, soluti penitus, ventique impetui expositi, sicque abrepti in proximas dejici valles, ubi lapidibus pluisse putabitur? ita sane vitulum Avicennæ lanamque pluit: Refert Cardanus _Lib. 16. Subti._ vento sublatum sibi pileum fuisse, cum eques montem Apenninum transiret, additque parum abfuisse, ne portenti vice decideret in proximas villas. Transtulit & equum, cui insidebat, venti violentia ad 2. passus, ita ut fere præcipitaretur. Si tum ibi fuisset exercitus, pileique vento acti in villas ad radices montis sitas dejecti fuissent, rustici pileos pluisse jurassent utique, historicique literis consignassent. Idem Cardanus _loc. cit._ Anno 1618. Mantuæ vento vehementissimo inter alia mulierem pannos lavantem abreptam & per aera longissime asportatam fuisse narrat. Hæc ex Schotti nostri _Phsicæ curiosæ Lib. 11._ verbis illius fere retentis attexere placuit. Attamen solers hic naturæ scrutator, uti & Cabæus nostras sentire videntur: pluvias lapideas nequaquam hac ratione & modo oriri, verum lapides in aere generari, de quo, cum multa jam vera fecerim, non est, quod ultra addam. Istud certum: vento lapides, etiam solutos a superficie telluris, abripi difficulius, quam alia corpora, & si lapidibus absolute graviora, si nempe horum superficies ad gravitatem majorem habeat rationem, quam illorum; majore enim existente corporis firmi superficie major aeris copia in corpus istud incurrit, illudque facilius impellit, & una secum asportat. Cæterum lapides Strkowienses vento vehementi nequaquam in aera abreptos, inde ad tellurem rejectos fuisse, manifestum puto. Neque enim, cum lapides pluit, neque ante, quam pluit, procellam desæviisse narratur; quæ, si adfuisset, cum insignem plane eam fuisse oportuisset, in relationibus datis silentio non fuisset præterita. Quid? quod hæc procella domuum tecta discussisset, arbores postravisset, aliasque strages illa in vicinia edidisset, quorum omnium nil quidquam accidisse compertum habemus.
+
 # §. 5. Lapides Strkowienses non sunt in aera sublati turbine.
+
+Duos tantummodo turbines laconice enarrabo, tum, quod nostra memoria contigere, tum, quod a viris peritissimis atqua doctimissimis recenseantur.
+
+...
 
 # §. 6. Lapides Strkowienses videntur ructus quodam terrae, & vomitione in auras ejecti, inde rursum decidisse.
 
