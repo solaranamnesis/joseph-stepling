@@ -52,7 +52,7 @@ Cogitemus jam quo modo, quaque virtute tenuis usque adeo aura & halitus per 75. 
 
 # §. 3. Lapides Strkowienses e tellure in aerem sunt sublati.
 
-Cum, ut ostensum in anterioribus, lapides ad Strkow in aere geniti non sint, non aliud superest, quam ut dicamus e tellure in aerem sublatos fuisse, atque inde rursum gravitate propria decidisse. Verum enim vero qua vi in sublime acti fuerint, disputandum nunc venit: vel enim vento, aut turbine extraordinario, aut denique terrae quodam vomitu id factum fuisse oportet, neque certe nunc aliud quid quam, quod dicam, menti succurrit.
+Cum, ut ostensum in anterioribus, lapides ad Strkow in aere geniti non sint, non aliud superest, quam ut dicamus e tellure in aerem sublatos fuisse, atque inde rursum gravitate propria decidisse. Verum enim vero qua vi in sublime acti fuerint, disputandum nunc venit: vel enim vento, aut turbine extraordinario, aut denique terræ quodam vomitu id factum fuisse oportet, neque certe nunc aliud quid quam, quod dicam, menti succurrit.
 
 # §. 4. Lapides non sunt in aera abrepti procella.
 
