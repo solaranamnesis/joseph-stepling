@@ -1,6 +1,6 @@
 # De Pluvia Lapidea.
 
 [Latin - Plain Text](full-text-latin.md)  
-[Latin - PDF](https://cdn.solaranamnesis.com/Stepling/stepling_pluvia_lapidea_1753_latin.pdf) | [Coelacanth](https://cdn.solaranamnesis.com/Stepling/stepling_pluvia_lapidea_1753_latin_coelacanth.pdf) | [Biolinum](https://cdn.solaranamnesis.com/Stepling/stepling_pluvia_lapidea_1753_latin_biolinum.pdf)  
+[Latin - PDF](https://cdn.solaranamnesis.com/Stepling/stepling_pluvia_lapidea_1753_latin.pdf) | [Coelacanth](https://cdn.solaranamnesis.com/Stepling/stepling_pluvia_lapidea_1753_latin_coelacanth.pdf) | [Biolinum](https://cdn.solaranamnesis.com/Stepling/stepling_pluvia_lapidea_1753_latin_biolinum.pdf) | [Auriocus](https://cdn.solaranamnesis.com/Stepling/stepling_pluvia_lapidea_1753_latin_aurical.pdf)  
 English - Plain Text  
 English - PDF  
